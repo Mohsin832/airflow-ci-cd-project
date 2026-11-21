@@ -4,4 +4,3 @@ plugins/
 config/
 __pycache__/
 *.pem
-.github/workflows/
